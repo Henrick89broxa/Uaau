@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>youtube</title>
+    <link rel="shortcut icon" href="Área de Trabalho/www.ico" type="image/x-icon">
+    <style>
+        body {
+             font-family: arial;
+             color:brown;
+             font-size: 30px;
+             background-color: aquamarine;
+             }
+    </style>
+</head>
+<body>
+    <h1>Meu canal</h1>
+    <p>no inicio da quarentena fiz um canal do youtube pra eu passar meu tempo esse é meu canal <a href="https://www.youtube.com/@henrickgamerplay7718/videos">click aqui</a> se quiser visitar</p>
+    <h2>o que eu precisei para gravar</h2>
+    <ol>
+        <ul type="circle">
+            <li>instalar o obs</li>
+            <li>intalar o minecraft</li>
+            <li>ser feliz</li>
+        </ul>
+    </ol>
+    <h3>o ultimo video que eu gravei</h3>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lu4gCprjBAE?si=pAKblQkwViSY0VYt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
